@@ -1,3 +1,6 @@
+// writing javaScript code defining variables and, 
+// acssesing the variables
+
 let age = 22;
 let firstName = "Abhishek";
 // "my name is Abhishek and my age Is 22"
