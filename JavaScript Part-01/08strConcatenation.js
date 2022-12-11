@@ -1,3 +1,6 @@
+// writing javaScripts program for String Concatenation
+// string concatenation in javaScripts
+
 let string1 = "abhishek";
 let string2 = "singh";
 
