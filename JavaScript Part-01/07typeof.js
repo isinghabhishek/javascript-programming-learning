@@ -1,4 +1,4 @@
-// typeof  operator
+// typeof  operators in javascript
 
 // data types(primitive data types)
 // string
