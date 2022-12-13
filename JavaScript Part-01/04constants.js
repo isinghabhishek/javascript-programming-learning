@@ -1,4 +1,4 @@
-// declare constants
+// declaring constants in javaScript
 
 // constants are whose value can't be changed
 
