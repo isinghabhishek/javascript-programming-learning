@@ -1,4 +1,4 @@
-// useing let 
+// let in javaScript
 
 // let is mostly use
 
