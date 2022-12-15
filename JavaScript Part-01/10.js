@@ -1,3 +1,5 @@
+// practising the other datatypes of javaScripts
+
 // undefiend
 let firstName;
 console.log(typeof firstName);

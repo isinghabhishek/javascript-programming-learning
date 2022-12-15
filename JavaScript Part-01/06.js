@@ -1,4 +1,5 @@
-//  diffrent methods in strings
+//  diffrent methods of strings in javaScript
+// string 
 
 // trim()
 let firstName = "    abhishek    ";

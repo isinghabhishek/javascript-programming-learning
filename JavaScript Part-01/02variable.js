@@ -1,5 +1,7 @@
 "use strict";  //avoid from doing mistaks
 
+// valiables in javascripts
+
 // declare a variable
 var firstName = "Abhishek";
 const lastName = "Singh";

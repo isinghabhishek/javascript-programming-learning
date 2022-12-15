@@ -1,3 +1,5 @@
+// String in javaScript
+
 // string indexing
 
 let firstName = "abhishek";
