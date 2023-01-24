@@ -1,6 +1,10 @@
 // typeof  operators in javascript
 
-// data types(primitive data types)
+// There are two types of data types in JavaScript:
+// 1). Primitive data types
+// 2). Non- Primitive data types
+
+// Primitive data types
 // string
 // number
 // booleans
@@ -9,7 +13,11 @@
 // BigInt
 // Symbol
 
-// 
+// Non-primitive data types
+// Array
+// Object
+
+
 // let age = 22;
 // let firstName = " abhishek";
 

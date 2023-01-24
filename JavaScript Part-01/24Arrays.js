@@ -2,6 +2,11 @@
 //  Array is A References Type
 // ordered collections of Items
 
+// There are 3 ways to create an array in JavaScript.
+// 1). By array literal
+// 2). By creating an instance of Array
+// 3). By using an Array constructor 
+
 let fruits = ["apple", "mango", "grapes"];
 
 // let numbers = [1,2,3,4];

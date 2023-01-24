@@ -1,6 +1,6 @@
 "use strict";  //avoid from doing mistaks
 
-// valiables in javascripts
+// variables in javascripts
 
 // declare a variable
 var firstName = "Abhishek";

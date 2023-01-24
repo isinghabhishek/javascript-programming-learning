@@ -7,6 +7,12 @@
 // objects store key values pairs
 // objects don't have index
 
+// There are 3 ways to create an object in JavaScript.
+// 1). By object literal
+// 2). By creating an instance of Object
+// 3). By Object Constructor
+
+
 //  Creating An Object
 
 // object #1
