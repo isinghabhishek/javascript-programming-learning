@@ -15,7 +15,7 @@
 
 //  Creating An Object
 
-// object #1
+// object #1 key-value pair
 // const person = {name:"Abhishek",age:22};
 
 //  object #2
@@ -48,7 +48,7 @@ console.log(person["hobbies"]);
 
 // Adding key value pair to objects
 
-//  Dot ntation
+//  Dot notation
 // person.gender = "male";
 
 //   Bracket Notation
