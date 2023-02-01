@@ -10,13 +10,13 @@ function hello(){
 //  we can not call function before of it's decleration.
 
 
-// using var we get 'undefind'
+// using var then will we  get 'undefind'
 console.log(hello);
 var hello = "Hello World";
 // console.log(hello);
 
 
-// but in the case of 'let' & 'const' it is give error
+// but in the case of 'let' & 'const' it w give error
 // console.log(hello);
 // let hello = "Hello World";
 // console.log(hello);
