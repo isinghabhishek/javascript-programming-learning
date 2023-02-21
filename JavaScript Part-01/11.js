@@ -1,7 +1,6 @@
 // Booleans & Comparison Opertor
 
-// Booleans
-// True, False
+// Booleans -> (true, false)
 let num1 = 9;
 let num2 = 7;
 console.log(num1<=num2);
@@ -12,6 +11,7 @@ console.log(num1<=num2);
 // The == operator checks equality only 
 // whereas === checks equality, and data type, 
 // i.e., a value must be of the same type.
+
 // == vs ===
 let num11 = "7";
 let num12 = 7;

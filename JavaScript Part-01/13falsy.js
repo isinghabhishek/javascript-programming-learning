@@ -1,7 +1,7 @@
 // falsy values
 
-// variable cn'nt be assign with the below
-// give these are falsy value, we must avoide to use them
+// variable can't be assign with the below falsy values
+// below give are falsy value, we must avoide to use them
 // false
 // ""
 // null

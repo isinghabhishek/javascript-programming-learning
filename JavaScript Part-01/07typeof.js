@@ -18,16 +18,19 @@
 // Object
 
 
+// Converting String to Number and vise-versa
+
 // let age = 22;
 // let firstName = " abhishek";
 
 // console.log(typeof age);
 
-// //convert string to number.
+// 22 -> "22"
+// convert number to string.
 // age = age + "";
 // console.log(typeof age);
 
-// // convert number to string.
+// // convert string to number.
 // let mystr = +"34";
 // console.log(typeof mystr);
 

@@ -1,6 +1,7 @@
 // practising the other datatypes of javaScripts
 
 // undefiend
+// if variable declared in javaScript, but not intialise then it will be Undefined
 let firstName;
 console.log(typeof firstName);
 
@@ -12,6 +13,7 @@ let myVariable = null;
 console.log(myVariable);
 myVariable = "Abhishek";
 console.log(myVariable, typeof myVariable);
+// typeof null -> object
 console.log(typeof null);  // bug, error
 
 
