@@ -25,13 +25,14 @@ singHappyBirthday();
 // console.log(returnedValue);
 
 //  Function  Expresstion
-const sumTwoNumbers =function(number1, number2){
+const sumTwoNumbers = function(number1, number2){
     return number1+number2;
 }
 const ans1 = sumTwoNumbers(9,7);
 console.log(ans1);
 
-
+// adding "undefined" to a number => NaN(Not a Number)
+// 3 + 4 + undefined => NaN
 
 //   Check The Given No Is Even Or Not.
 //    function decraltion

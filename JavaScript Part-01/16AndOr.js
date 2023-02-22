@@ -12,7 +12,7 @@ let age = 12;
 // }
 
 // And Operator(&&)
-// in And both stmt must be true to exicute if stmt
+// for "&&" both stmt must be true to execute if stmt
 if (firstName[0] === "A" && age > 18) {
   console.log("Name starts with A and above 18");
 } else {
@@ -20,7 +20,7 @@ if (firstName[0] === "A" && age > 18) {
 }
 
 // OR Operator(||)
-// if any one of stmt is true then if stmt will exicute
+// if any one of stmt is true then if stmt will execute
 let firstName1 = "Abhishek";
 let age1 = 12;
 if (firstName1[0] === "A" || age1 > 18) {

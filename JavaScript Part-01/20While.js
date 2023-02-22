@@ -1,7 +1,10 @@
 //  While Loop
 
-// let i = 0;
+// dry -> Don't Repeat Yourself
 
+// print no from 0 to 9
+
+// let i = 0;
 // while(i<=9){
 //     console.log(i);
 //     i++;

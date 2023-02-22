@@ -1,5 +1,7 @@
 // Nested If Else
 
+// for takeing input from user we can use "prompt".
+
 let winingNumber = 19;
 // prompt take input in string, converting string -> Number
 // we use "+prompt" -> is Number now
