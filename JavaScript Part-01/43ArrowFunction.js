@@ -7,7 +7,7 @@
 // singHappyBirthday();
 
 //    Arrow function
-const singHappyBirthday = ()=>{
+const singHappyBirthday = () =>{
     console.log("happy birthday to you .....");
 }
 singHappyBirthday();

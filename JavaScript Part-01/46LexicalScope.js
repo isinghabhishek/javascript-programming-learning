@@ -1,6 +1,6 @@
 //  lexical scope
 
-// lexical scope means that if a variable is defined anywhaer in code
+// lexical scope means that if a variable is defined anywhere in code
 // and we call it from function function inside function
 // javascript will be able to fatch th value of variable 
 // global scope also
