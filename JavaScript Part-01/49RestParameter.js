@@ -12,10 +12,11 @@ myFunc(2,3,4,5,6,7,8,9);
 
 
 // rest parameter use
+// function to add all numbers
 function addAll(...numbers){
     let total = 0;
     for(let number of numbers){
-        total = total+number;
+        total = total + number;
     }
     return total;
 }

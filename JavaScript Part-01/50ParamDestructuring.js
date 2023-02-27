@@ -1,7 +1,7 @@
-//  param destructuring
+//  parameter destructuring
 
 // object ke saath
-// react(me mostly) 
+// React(me mostly use karte hai) 
 
 const person = {
     firstName: "abhishek",
