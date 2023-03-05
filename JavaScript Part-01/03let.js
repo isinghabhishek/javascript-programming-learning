@@ -1,6 +1,6 @@
 // let in javaScript
 
-// let is mostly use
+// "let" is mostly use for Variable Declaration
 
 // at first time declaration of variable 
 // if onces a variable declared no need to do it again
@@ -12,6 +12,6 @@ firstName = "Ashutosh";
 console.log(firstName);
 
 
-//block scope vs function scope 
+// block scope / function scope 
 
 // Block Scope --> a variable defined with a block  

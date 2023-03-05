@@ -1,6 +1,7 @@
 // declaring constants in javaScript
 
-// constants are whose value can't be changed
+// "const" variables, whose value are constant thought out programm 
+// can't be changed value are same
 
 const pi = 3.14;  // declaring the constant
 console.log(pi);
