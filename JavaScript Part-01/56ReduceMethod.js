@@ -1,6 +1,6 @@
-// reduce method
+// Reduce method
 
-
+// Ex:1
 const numbers = [1,2,3,4,5,10];
 // aim: sum of all the numbers in array.
 
@@ -15,7 +15,9 @@ console.log(sum); // 25
 //    10                5             15
 //    15                10            25
 
-//  Real Application
+
+// Ex:2[Add To Cart] feature
+//  Real Application --> Add to cart Method
 const userCart = [
     {productId:1, productName: "mobile", price: 15500},
     {productId:2, productName: "Laptop", price: 58500},

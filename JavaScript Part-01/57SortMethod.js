@@ -1,8 +1,8 @@
 //   sort method
 
 // javascript sort according to there ascii value,
-// sort() changes the original given array
-// where as  forEach(), map(), filter()  these doesn't change the original array.
+// sort() function changes the original given array according to ASCII value.
+// where as  forEach(), map(), filter()  these methods doesn't change the original array.
 
 // ascii value code
 
@@ -31,7 +31,7 @@
 //   'w'  :  119
 //   'x'  :  120
 //   'y'  :  121
-//   ' '  :  
+//   'z'  :  122
 
 
 // ASCII value code
@@ -63,6 +63,7 @@
 //   'Z'  :   90
 
 
+// ASCII value of Numbers
 //   '0'  :   48
 //   '1'  :   49
 //   '2'  :   50
@@ -74,8 +75,8 @@
 //   '8'  :   56
 //   '9'  :   57
 
-
-// use full in the sorting accordigly alphabatcally
+    
+// usefull in the sorting array in alphabatcally order.
 
 const userNames = [ 'abhishek', 'ashutosh', 'varsha', 'shelly', 'Shelly', 'Abhishek'];
 // capital  letters have less ASCII values

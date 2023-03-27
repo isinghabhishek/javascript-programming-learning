@@ -1,5 +1,5 @@
 //   filter  Method
-// 'filter method' will filter out according to the give condition
+// 'filter method' will filter out value according to the give condition
 
 
 // these be use to filter out the both even and odd numbers.

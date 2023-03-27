@@ -1,16 +1,16 @@
 //   Object Destructuring
 
 const band = {
-    bandName: "led zepplin",
-    famousSong: "stairway to heaven",
-    year: 1968,
-    anotherFamousSong: "kashmir",
+    singerName: "Lata Mangeshkar Ji",
+    famousSong: "Aakh me bhar lo paani",
+    year: 1965,
+    anotherFamousSong: "Jai Hind",
 };
 
-let { bandName, famousSong, ...restProps } = band;
+let { singerName, famousSong, ...restProps } = band;
 console.log(bandName);
 console.log(restProps);
 
 //  Another Way
-let { bandName:var1, famousSong:var2 } = band;
+let { singerName:var1, famousSong:var2 } = band;
 console.log(var1);
