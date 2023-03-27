@@ -1,7 +1,8 @@
 
 // Array are mutable
-// Array   push   pop
-//**push and pop are fast as compared to the shift and unshift
+// Array  push & pop  method
+
+// push and pop are fast as compared to the shift and unshift
 
 //  push -----> item are Added at last
 let fruits = ["apple", "mango", "grapes"];

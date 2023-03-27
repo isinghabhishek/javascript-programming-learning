@@ -1,4 +1,4 @@
-//  Primitive Data Type  vs c
+//  Primitive Data Type  vs References Data Type
 
 // Primitive Data Type
 // there are 7 primitive data type
@@ -9,6 +9,7 @@
 // 5. undefined
 // 6. symbol
 // 7. null
+
 // Primitive -------> value are stores in Stack Memory
 // for primitive type variables diffrent memory block created for each variable.
 let num1 = 6;
@@ -23,9 +24,9 @@ console.log("value is num2 is", num2);
 
 // References Data Type
 // 1. Objects
-// 2. Functions
+// 2. Arrays
 // 3. Collections
-// 4. Arrays
+// 4. Functions
 // 5. Dates
 // 6. other types of objects
 

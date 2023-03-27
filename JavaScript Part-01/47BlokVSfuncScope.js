@@ -13,12 +13,12 @@
 
 // block #2
 {
-    const firstName = "shelly";
+    const firstName = "prithvi";
     console.log(firstName);
 }
 
 
-//  'var' is function scope.
+// 'var' is function scope.
 // 'var' is accessable from outside of the block.
 // "var" is global scope we can acssec it all over code(main function)
 {
