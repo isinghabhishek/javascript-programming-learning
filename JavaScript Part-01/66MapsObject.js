@@ -5,10 +5,9 @@
 //   store key values pair(like object)
 
 //   duplicate keys are not allowed like Objects
-//   different between maps  and Objects
 
-//   objects can only have string or symbol
-//   as key
+//   different between maps  and Objects
+//   objects can only have string or symbol as key
 
 // in maps you can use anything as key
 // like  'array', 'number', 'string', 'Objects

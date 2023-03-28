@@ -29,6 +29,7 @@ if(numbers.has(1)){
 console.log(numbers);
 
 
+// for of loop
 for(let number of numbers){
     console.log(number);
 }

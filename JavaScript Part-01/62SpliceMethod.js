@@ -18,7 +18,7 @@ const myArray = ['item1', 'item2', 'item3'];
 
 // we can store the deleted item
 // const deletedItem = myArray.splice(1, 2);
-// console.log("deleted Item", deletedItem);
+// console.log("deleted Item is:", deletedItem);
 // console.log(myArray);
 
 
@@ -28,7 +28,7 @@ const myArray = ['item1', 'item2', 'item3'];
 // console.log(myArray);
 
 
-//  insert and delete both thoghter
+//  insert and delete both together
 // startingIdx 1 se 2 item delete karna hai  or inserted karna hai "inserted item" 
 const deletedItem = myArray.splice(1, 2, "inserted item1", "inserted item2");
 console.log("delete item", deletedItem);
