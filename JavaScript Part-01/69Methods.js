@@ -1,6 +1,7 @@
 //  methods
 //  function  inside  Objects
 
+// 1
 const person = {
     firstName: "abhishek",
     age: 18,
@@ -11,8 +12,8 @@ const person = {
 person.about();
 
 
+// 2
 //  Another Examples
-
  function personInfo(){
     console.log(`person name Is ${this.firstName1} and age is ${this.age1}`);
 }

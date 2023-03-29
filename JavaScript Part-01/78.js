@@ -22,7 +22,7 @@ const obj1 = {
 
 // "__proto__"  ,  "[[prototype]]"  --> both are same
 
-//  __proto__ ki madth se javaScript jo cheese 'obj2' 
+//  __proto__ ki madth se javaScript jo values 'obj2' 
 //  me nahi ho tho wo usko 'obj1' se lelega bcz 'obj1' is stored in "[[prototype]]"
 
 //  "prototype"  -->  this is diffrent from above two

@@ -1,6 +1,6 @@
 //  creating functions to create  multiple objects
 
-//  proto ,  prottype ,   class --> will learn later
+//  proto ,  prototype ,   class --> will learn later
 
 //  normal way
 // const user = {
