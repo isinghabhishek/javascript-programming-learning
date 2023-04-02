@@ -46,7 +46,7 @@ function createUser(firstName, lastName, email, age, address){
     return user;
 }
 
-const user1 = createUser('Abhishek', 'Singh', 'singh@gmail.com', '18', 'Mirzapur uttar pradesh');
+const user1 = createUser('Abhishek', 'Singh', 'singh@gmail.com', '18', 'varanasi uttar pradesh');
 console.log(user1);
 
 const is18 = user1.is18();

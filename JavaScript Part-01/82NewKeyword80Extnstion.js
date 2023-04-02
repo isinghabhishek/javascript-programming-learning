@@ -30,7 +30,7 @@ CreateUser.prototype.is18 = function(){
 CreateUser.prototype.sing = function(){
     return 'sa re ga ma....';     
 };
-const user1 = new CreateUser('Abhishek', 'Singh', 'singh@gmail.com', '18', 'Mirzapur uttar pradesh');
+const user1 = new CreateUser('Abhishek', 'Singh', 'singh@gmail.com', '18', 'varanasi uttar pradesh');
 const user2 = new CreateUser('Abimaniyu', 'dev', 'singh@gmail.com', '16', 'prayagraj uttar pradesh');
 const user3 = new CreateUser('prithivi', 'chauhan', 'singh@gmail.com', '24', 'varanasi uttar pradesh');
 const user4 = new CreateUser('Raaj', 'Rajput', 'singh@gmail.com', '14', 'Delhi ');
