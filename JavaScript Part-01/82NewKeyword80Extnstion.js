@@ -48,6 +48,7 @@ console.log(user1);
 //        constructor: ƒ CreateUser(firstName, lastName, email, age, address)
 //        [[Prototype]]: Object
 
+
 console.log(user2.sing());
 console.log(user4.about());
 console.log(user3.is18());
