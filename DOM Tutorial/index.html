@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    // using "defer" keyword for linking javascript file with HTML file.
+    <script src="./DOM.js" defer></script> 
+    <title>Abhishek Singh</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <h1 class=""logo>Website</h1>
+            <ul class="nav-items">
+                <li><a href="">Home</a></li>
+                <li><a href="">Todo</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Sign Up</a></li>
+            </ul>
+        </nav>
+        <div class="headline">
+            <h2>Manage your tasks</h2>
+            <button class="btn btn-headline">Learn More</button>
+        </div>
+    </header>
+    <section class="section-todo container">
+        <h2>Your plan for today ?</h2>
+        <form class="form-todo">
+            <input type="text"  name="" id="" placeholder="Add Todo">
+            <input type="submit" value="Add Todo" class="btn">
+        </form>
+    </section>
+    <section class="section-signup container">
+        <h2>Sign Up</h2>
+        <form class="singup-form">
+            <div class="form-group">
+                <label for="username">UserName</label>
+                <input type="text" name="username" id="username">
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email">
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone no</label>
+                <input type="text" name="phone" id="phone">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="text" name="password" id="password">
+            </div>
+            <div class="form-group">
+                <label for="confirmPassword">Confirm Password</label>
+                <input type="text" name="confirmPassword" id="confirmPassword">
+            </div>
+            <div class="form-group">
+                <label for="about">About Yourself</label>
+                <textarea name="about" id="about" cols="30" rows="10"></textarea>
+            </div>
+            <button type="submit" class="btn signup-btn">Submit</button>
+        </form>
+    </section>
+</body>
+</html>
