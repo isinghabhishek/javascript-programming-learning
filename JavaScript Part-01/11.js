@@ -1,15 +1,15 @@
-// Booleans & Comparison Opertor
+// Booleans & Comparison Operator
 
 // Booleans -> (true, false)
 let num1 = 9;
 let num2 = 7;
-console.log(num1<=num2);
+console.log(num1 <= num2);
 
 // NaN() function
 // The is NaN() function returns true if the variable value is not a number.
 
-// The == operator checks equality only 
-// whereas === checks equality, and data type, 
+// The == operator checks equality only
+// whereas === checks equality, and data type,
 // i.e., a value must be of the same type.
 
 // == vs ===

@@ -1,4 +1,4 @@
-//  diffrent methods of strings in javaScript
+//  different methods of strings in javaScript
 // string
 
 // trim()

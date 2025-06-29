@@ -13,10 +13,10 @@
 // BigInt
 // Symbol
 
-// Non-primitive data types
+// References(Non-primitive) data types
 // Array
 // Object
-
+// Function
 
 // Converting String to Number and vise-versa
 
@@ -36,5 +36,9 @@
 
 let age = "18";
 // age = String(age);  for converting number to string.
-age = Number(age);  //for converting String to Number.
+age = Number(age); //for converting String to Number.
 console.log(typeof age);
+
+let nyNumber = 12;
+console.log(myNumber);
+console.log(Number.MAX_SAFE_INTEGER); // 9007199254740991

@@ -9,7 +9,7 @@ let firstName = "abhishek";
 // length of string
 console.log(firstName.length);
 
-// we can asccess the string character by index
+// we can access the string character by index
 
 //  a  b  h  i  s  h  e  k
 //  0  1  2  3  4  5  6  7
