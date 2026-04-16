@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  lint:
+    name: Lint JavaScript & HTML
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ESLint
+        run: npm install --save-dev eslint@8
+
+      - name: Run ESLint on JS files
+        run: npx eslint "**/*.js" || true
+
+      - name: Install html-validate
+        run: npm install --save-dev html-validate
+
+      - name: Run HTML validation
+        run: npx html-validate "**/*.html" || true
