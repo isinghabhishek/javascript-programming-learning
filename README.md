@@ -41,3 +41,16 @@ node "JavaScript Part-01/01file.js"
 Every push runs ESLint on all `.js` files and html-validate on `.html` files via GitHub Actions.
 
 ---
+<br />
+
+## 👨‍💻 Author
+
+**Abhishek Singh**
+
+[![GitHub](https://img.shields.io/badge/GitHub-isinghabhishek-181717?style=flat&logo=github)](https://github.com/isinghabhishek)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ while learning JavaScript </sub>
+</div>
